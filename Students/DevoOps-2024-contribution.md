@@ -12,16 +12,17 @@ This course introduces students to the key principles of DevOps, a set of practi
 - Summarize your Blog post (max 3 sentences), and what you have learned throughout.
 - Mention learning Resources. 
 
-## Sanaullah Momin (21i-0614)
+## Malaika Azeem
+Roll Number: 21i-2597
 
-LinkedIn: www.linkedin.com/in/sanaullah-momin-71b774309
-Medium: https://medium.com/@sanaullahmomin111
-Github: https://github.com/momin4930
+Github: https://github.com/malaikazeem
+Medium: https://medium.com/@malaikazeem01/docker-vs-podman-whats-the-best-container-solution-for-you-b043f588efdd
 
-## Blog Post
-Blog link: https://medium.com/@sanaullahmomin111/introduction-to-docker-buildkit-enhancing-your-container-builds-3a4dfc1a5753
+## BLOG: Docker vs. Podman: What’s the Best Container Solution for You?
+# Summary: 
+Docker has been the traditional containerization tool for a while now. However, the recent introduction of Podman as another containerization tool has sparked a debate among developers about which one of these tools is better.
 
-This blog is about Docker BuildKit. Docker BuildKit is an advanced image building system designed to enhance the Docker build process. It has various leverages over Docker build which have been discussed in the blog.
-
-Learning resources: https://docs.docker.com/build/buildkit/
+# Learning Resources:
+https://betterstack.com/community/guides/scaling-docker/podman-vs-docker/
+https://www.imaginarycloud.com/blog/podman-vs-docker
 
